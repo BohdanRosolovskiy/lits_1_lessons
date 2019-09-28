@@ -2,7 +2,7 @@ import org.w3c.dom.ls.LSOutput;
 
 public class appmain {
     public static void main(String[] args) {
-        System.out.println("Hello world");
+        
         var a = 15;
         var b = 1.6;
         var c = 8;
